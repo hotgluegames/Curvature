@@ -328,3 +328,16 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+
+# UE4
+*.bin
+*.generated.h
+*.gen.cpp
+*.obj
+*/Binaries/
+*/Intermediate/
+*/Saved/
+/Intermediate
+/Plugins/HGUtilities/Binaries/Win64
+/Plugins/HGUtilities/Intermediate/Build/Win64/UE4Editor/Development
